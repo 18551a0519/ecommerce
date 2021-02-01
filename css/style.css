@@ -1,0 +1,13 @@
+image{
+	width:50%;
+	display: block;
+	margin:1% auto;
+	transition:transform.2s;
+	
+}
+image:hover{
+	transform: scale(1.5);
+}
+.card{
+	box-shadow: 0px 8px 8px -8px #000;
+}

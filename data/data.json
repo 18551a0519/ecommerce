@@ -1,0 +1,27 @@
+{
+	"mobiles":[
+    {
+    	"name":"samsung a71s",
+    	"image":"image/samsunga71.jpeg",
+    	"originalPrice":35000,
+    	"price":34999
+    },{
+    	"name":"redmi 5 pro max",
+    	"image":"redmi.jpeg",
+    	"originalPrice":15000,
+    	"price":14999
+    },{"name":"realme 5 pro",
+    	"image":"image/realme.jpeg",
+    	"originalPrice":17000,
+    	"price":16999
+    },{"name":"vivo v20se",
+    	"image":"image/vivo-1.jpg",
+    	"originalPrice":20000,
+    	"price":19999
+    },{"name":"oneplus nord",
+    	"image":"image/oneplusnord.jpeg",
+    	"originalPrice":33000,
+    	"price":32999
+    }
+	]
+}
